@@ -9,8 +9,5 @@ public class PrimeiroPrograma {
         System.out.println("Hello World!" + (a+b));*/
         Gato gato = new Gato();
         System.out.println(gato);
-
-
-
     }
 }
